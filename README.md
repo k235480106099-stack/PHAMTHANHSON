@@ -1,3 +1,12 @@
+Bài tập môn Hệ quản trị cơ sở dữ liệu-TEE560, Lớp: 59KMT
+
+Họ tên: Phạm Thanh Sơn
+
+Lớp:K59KMT.K01
+
+MSSV: K235480106099
+
+BÀI TẬP
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d2b0ab4-e788-4408-acca-50d5cef5aa98" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9c3ecec-7c60-49f6-a510-4dbcd5c37957" />
 <img width="1910" height="1076" alt="ảnh 3" src="https://github.com/user-attachments/assets/50ddaa5d-7542-4a29-a135-e66a02fc7f15" />
